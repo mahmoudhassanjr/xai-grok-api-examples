@@ -1,0 +1,5 @@
+GROK_MINI_FAST = "grok-3-mini-fast-latest"
+GROK_MINI = "grok-3-mini-latest"
+GROK_FAST = "grok-3-fast-latest"
+GROK = "grok-3"
+GROK_VISION = "grok-2-vision-latest"

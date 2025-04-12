@@ -1,0 +1,1 @@
+BASE_URL_V1 = "https://api.x.ai/v1"
