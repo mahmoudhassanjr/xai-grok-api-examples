@@ -1,4 +1,4 @@
-# XAI API Examples
+# xAI API Examples
 Following Grok 3's recent arrival to the XAI API, this is a repository for my personal use (based on XAI's documentation https://docs.x.ai/docs/overview#welcome) to quickly evaluate the capabilities of XAI's different Grok models and API functionality (e.g. streaming, function calling, etc). 
 
 **Available Models**:
